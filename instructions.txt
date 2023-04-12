@@ -12,7 +12,7 @@ nulla ligula porta eros, eu feugiat libero turpis sit amet orci. Nunc sed pellen
 Ut pharetra turpis vel libero iaculis, a dignissim nisi fermentum. Aenean gravida eget dui at fringilla. 
 Duis rutrum felis neque, sed luctus nunc lacinia sit amet. Donec auctor turpis nisl. 
 Nullam tempus elit in mi lacinia pharetra. Nunc placerat tortor venenatis venenatis dignissim. 
-In turpis ex, iaculis id porta id, mattis eu ante. Nullam nec luctus tortor, sit amet consectetur ipsum.
+In turpis ex, iaculis id porta id, mattis eu ante. Nullam nec luctus, sit amet consectetur ipsum.
 
 New chapter
 -----------
