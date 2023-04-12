@@ -14,4 +14,4 @@ In hac habitasse platea dictumst. Ut commodo nisl turpis, sed iaculis purus phar
 
 New chapter
 -----------
-The first chapter talk about coding best practices for python.
+The first chapter talk about coding best practices and coding for python
