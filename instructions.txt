@@ -16,4 +16,4 @@ In turpis ex, iaculis id porta id, mattis eu ante. Nullam nec luctus tortor, sit
 
 New chapter
 -----------
-The first chapter talk about coding best practices and coding for python.
+This chapter talk about coding best practices and coding for python.
